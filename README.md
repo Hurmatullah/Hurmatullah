@@ -1,7 +1,8 @@
 ### Hurmatullah Rasaa
 
 
-A highly organised IT professional who has a proven track record of using good engineering practice to produce software for new, innovative and profitable products and solutions. At the heart of his strength is the ability to work on the development of software systems by accurately interpreting user requirements, then creating the required software designs, coding and testing them and finally integrating the software. At all times he makes sure that both the company’s and the client’s interests are at the core of any IT project. By possessing a sound knowledge of modern software development techniques, methods, tools and languages he is able to ensure enhanced user interaction. He is proud to possess a long record of achieving the desired outcomes of projects, on-time and always within budget. A real team player who can comfortably work with Business Analysts, Solution Designers, Deployment Teams and Testers to develop and enhance software functionality. One of his greatest strengths is being able to appreciate the bigger business picture, and not just a projects immediate software requirements.
+A highly organised Software Developer who has a proven track record of using good engineering practice to produce software for new, innovative and profitable products and solutions.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurmatullah&count_private=trueshow_icons=true&theme=radical)
 

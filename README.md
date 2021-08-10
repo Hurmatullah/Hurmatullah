@@ -3,7 +3,7 @@
 
 A highly organised Software Developer who has a proven track record of using good engineering practice to produce software for new, innovative and profitable products and solutions.
 
-![Visitor Count](https://profile-counter.glitch.me/Hurmatullah/count.svg)
+Visitor Count:  ![Visitor Count](https://profile-counter.glitch.me/Hurmatullah/count.svg)
 
 
 <!-- Here are some ideas to get you started:

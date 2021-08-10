@@ -5,7 +5,7 @@ A highly organised Software Developer who has a proven track record of using goo
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurmatullah&count_private=trueshow_icons=true&theme=radical)
+![Hurmatullah GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurmatullah&count_private=trueshow_icons=true&theme=radical)
 
 <!-- Here are some ideas to get you started:
 
